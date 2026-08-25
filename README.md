@@ -10,9 +10,9 @@
 
 ### References
 
-* **[Joomla! Certified User Directory](https://certification.joomla.org/certified-users)**
-* **[Joomla! Volunteers Portal](https://volunteers.joomla.org/)**
-* **[Joomla! Service Providers Directory](https://resources.joomla.org/)**
+* **[Joomla! Certified User Directory](https://certification.joomla.org/certified-user-directory/claudio-rosselli)**
+* **[Joomla! Volunteers Portal](https://volunteers.joomla.org/joomlers/39541-claudio-rosselli)**
+* **[Joomla! Service Providers Directory](https://community.joomla.org/service-providers-directory/listings/298:iamawebmaster-com.html)**
 * **[Joomlaitalia.it](https://www.joomlaitalia.it/)** – Technical articles, guides and tutorials
 
 ### Contact
