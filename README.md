@@ -6,7 +6,7 @@
 * 🔧 I focus on **Joomla! development, technical web consulting, templates, extensions, security, stability and compatibility**
 * ♿ Interested in **web accessibility** and websites for **Public Administration**
 * 🌱 Currently working with **Joomla! 6 and the Joomla! ecosystem**
-* 🌍 Open source contributor and Joomla! volunteer
+* 🌍 Open source contributor and Joomla! community volunteer
 
 ### References
 
