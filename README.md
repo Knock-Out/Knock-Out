@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @Knock-Out
-- 👀 I’m interested in Joomla!
-- 🌱 I’m currently learning Joomla! 5
-- 💞️ I’m looking to collaborate on /joomla/joomla-cms - /retepasw/joomla-italiapa - /pcrt/joomla-italia-theme
-- 📫 How to reach me https://iamawebmaster.com | https://www.youtube.com/channel/UConFD9iehAWVXJiReZzO4Rw
+# GitHub Profile Bio
+
+* 👋 Hi, I’m Claudio, aka **@Knock-Out**
+* 💻 **Joomla! specialist and web developer**, working with Joomla! since 2008
+* 🏅 **Joomla! Certified Administrator** since 2019
+* 🔧 I focus on **Joomla! development, technical web consulting, templates, extensions, security, stability and compatibility**
+* ♿ Interested in **web accessibility** and websites for **Public Administration**
+* 🌱 Currently working with **Joomla! 6 and the Joomla! ecosystem**
+* 🌍 Open source contributor and Joomla! volunteer
+
+### References
+
+* **[Joomla! Certified User Directory](https://certification.joomla.org/certified-users)**
+* **[Joomla! Volunteers Portal](https://volunteers.joomla.org/)**
+* **[Joomla! Service Providers Directory](https://resources.joomla.org/)**
+* **[Joomlaitalia.it](https://www.joomlaitalia.it/)** – Technical articles, guides and tutorials
+
+### Contact
+
+* 🌐 **[iamawebmaster.com](https://iamawebmaster.com/)**
+* ▶️ **[YouTube](https://www.youtube.com/channel/UConFD9iehAWVXJiReZzO4Rw)**
 
 <!---
 Knock-Out/Knock-Out is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at the changes.
 --->
